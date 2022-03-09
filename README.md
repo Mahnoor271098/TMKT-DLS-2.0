@@ -9,34 +9,34 @@ Scenario: Login to admin view
    
       | Priority |
       | household ID  |  
-      Primary First Name  
-      Primary Last Name   
-      Secondary Contact Full Name  
-      Phone 1   
-      Phone 2  
-      Email 1 
-      Email 2            
-      Street Address   
-      City                   
-      State                
-      Zip                          
-      RV Owner 
-      Age       
-      Income       
-      Marital Status     
-      Program          
-      Marketing Participant  
-      Promotion            
-      Campaign Description        
-      Campaign Resort      
-      metaState(State of the campaign)                 
-      Lead Date            
-      Assigned Agent    
-      Total Outbound Calls (pre-calc)       
-      Total Inbound Calls (pre- calc)               
-      Total Inbound Calls    
-      Total Live Calls (pre-calc)         
-      Latest Five9 disposition. 
+      | Primary First Name  | 
+      | Primary Last Name   | 
+      | Secondary Contact Full Name  | 
+      | Phone 1   |  
+      | Phone 2   | 
+      | Email 1   | 
+      | Email 2   |          
+      | Street Address |  
+      | City     |               
+      | State    |          
+      | Zip      |                   
+      | RV Owner | 
+      | Age      | 
+      | Income   | 
+      | Marital Status         | 
+      | Program                | 
+      | Marketing Participant  | 
+      | Promotion              | 
+      | Campaign Description   |     
+      | Campaign Resort        | 
+      | metaState(State of the campaign)   |               
+      | Lead Date                          | 
+      | Assigned Agent                     | 
+      | Total Outbound Calls (pre-calc)    |     
+      | Total Inbound Calls (pre- calc)    |             
+      | Total Inbound Calls                | 
+      | Total Live Calls (pre-calc)        |  
+      | Latest Five9 disposition.          | 
 
 
  
